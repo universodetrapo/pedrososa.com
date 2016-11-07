@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'antonio regular';
+	src: url('antonio-regular-webfont.eot');
+	src: url('antonio-regular-webfont.eot?#iefix') format('embedded-opentype'),
+		url('antonio-regular-webfont.woff') format('woff'),
+		url('antonio-regular-webfont.ttf') format('truetype'),
+		url('antonio-regular-webfont.svg') format('svg');
+}
